@@ -45,7 +45,7 @@ After the merge of ST-NXP Wireless and Ericsson Modem business, I developed ARM 
 In the DSP Firmware Team, part of the Cellular Systems Group, I contributed to the maintenance and support of NXP’s 3GPP 2.5G and 3G baseband processors, until ST Microelectronics acquisition of NXP Wireless business.
 
 - Maintained the DSP firmware of the GSM/GPRS/EDGE product line (PNX52xx and 65xx): corrected bugs reported by the Layer 1 software team, added features requested by customers and implemented changes required by 3GPP standard evolutions.
-- Led the design and development of a hardware abstraction library for NXP Real16 DSP-based systems, composed of peripheral drivers, dynamic memory management and inter-processor communication services, used by the audio DSP in PNX67xx processors (now ST-Ericsson U67xx), and selected by HTC for the A3360 model and by Acer for beTouch E110/E120/E130 models.
+- Led the design and development of a hardware abstraction library for NXP Real16 DSP-based systems, composed of peripheral drivers, dynamic memory management and inter-processor communication services, used by the audio DSP in PNX67xx processors, and selected by HTC for the A3360 model and by Acer for beTouch E110/E120/E130 models.
 
 ### 03/2005 - 10/2006: Senior DSP Engineer
 
@@ -65,7 +65,7 @@ In the Digital Signal Processing team, I contributed to the development and comm
 - Developed cycle accurate models in C of a GMSK modulator, FIR filter, LMS filter, and CRC, ciphering and Viterbi accelerators, to extend the CEVA-Oak debugger with a complete simulation model of a DSP subsystem for a GSM/GPRS baseband processor.
 - Coded functional tests, in CEVA-Oak assembly, to validate the implementation of the DSP peripherals in a baseband processor, used in RTL simulations and on target.
 - Implemented a GPRS channel encoder/decoder, in CEVA-Oak assembly, and integrated the GSM/GPRS DSP firmware on target, for Wavecom’s first baseband processor, commercialized in the WISMO Pac P5186 module, and used by the HP iPaq h6300 Pocket PC and other mobile phones from various manufacturers.
-- Defined and modeled with Matlab/Simulink a digital down converter for a GMSK/8-PSK transceiver, composed of a CIC filter to reduce the ΣΔ quantization noise, decimation and channelization filters, and an image rejection filter; provided functional specifications, bit accurate models in C, and test vectors to the Digital Design team. Co-authored 3 patents about RF impairments cancellation in low intermediate frequency digital receivers
+- Defined and modeled with Matlab/Simulink a digital down converter for a GMSK/8-PSK transceiver, composed of a CIC filter to reduce the ΣΔ quantization noise, decimation and channelization filters, and an image rejection filter; provided functional specifications, bit accurate models in C, and test vectors to the Digital Design team. Co-authored 3 patents about RF impairments cancellation in low intermediate frequency digital receivers.
 
 ## Education
 
